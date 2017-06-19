@@ -5,3 +5,4 @@ node('agent'){
   stage 'second'
   echo 'again'
 }
+checkout scm
